@@ -8,7 +8,8 @@ at University of Calabria
 > * Part 2) Data Visualization with matplotlib and seaborn
 > * Part 3) A gentle introduction to scikit-learn
 > * Part 4) A classification problem
-> * Part 5) Clustering
+> * Part 5) Clusterin
+> * Part 6) Ensemble Learning
 
 # Acknowledgements
 A large part of the content is borrowed from the following books:
