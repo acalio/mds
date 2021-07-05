@@ -24,12 +24,13 @@ Since we are in the middle of summer, many people
 are moving from the city to the sea. 
 As a consequence, at the beginning of the following week we have the following situation
 
-|                              | _Store:1_ (City center) | _Store:2_ (City center) | _Store:3_ (Sea) | _Store:4_ (Sea) |
-|:----------------------------:|:-----------------------:|:-----------------------:|:---------------:|:---------------:|
-| original liters availability | 374K                    | 374K                    | 374K            | 374K            |
-|:----------------------------:|:-----------------------:|:-----------------------:|:---------------:|:---------------:|
-| residual                     | 120K                    | 200K                    | 0               | 0               |
-| performance                  | -137K                                                                              ||||
+|                                   | _Store:1_ (City center) | _Store:2_ (City center) | _Store:3_ (Sea) | _Store:4_ (Sea) |
+|:---------------------------------:|:-----------------------:|:-----------------------:|:---------------:|:---------------:|
+| original liters availability      | 374K                    | 374K                    | 374K            | 374K            |
+| residual                          | 120K                    | 200K                    | 0               | 0               |
+
+
+In the above scenario, the company has 137K euros worth of unsold fuel.
 
 Clearly, if Mr. Rossi had been able to correctly estimate the  amount of fuel withdrawn in the week, 
 the company would have increased its profit.
