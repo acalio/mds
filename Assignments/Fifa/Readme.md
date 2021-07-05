@@ -2,15 +2,15 @@
 FIFA is a very popular series of football video games, developed and published by
 Electronic Arts (EA). 
 
-It is arguably one of the most successful series in the video games business, which sold 
+It is arguably one of the most successful series in the video games business, selling 
 millions of copies around the world.
 
 The game has different gameplay modes (e.g., friendly matches, tournaments, online matches). 
 Among these modes there is also the Fifa Ultimate Team Mode, where the user can simulate the entire career
 of a coach and football manager of a team.
 
-In this context, the human player, as the coach/general manager of the team has to take numerous decisions, 
-critical to his/her team development and progress. 
+According to the last gameplay mode, the human player, as the coach/general manager of the team,
+has to take numerous decisions,  critical to his/her team development and progress. 
 One of the key responsibilities of the general manager is to decide which players to buy or sell. 
 
 In this context, it would be desirable to have a data-driven system helping the general manager
