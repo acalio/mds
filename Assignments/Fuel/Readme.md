@@ -48,7 +48,7 @@ between 2018  and 2019.
 We have two  representing for each store the transactions recorded beetween 2018 and 2019.
 
 The attributes of the datasets are rather self explanatory.
-- `consumption2018.xls`, `consumption2019.xls`
+1.  `consumption2018.xls`, `consumption2019.xls`
 * store_id
 * date
 * liters_dispesed
